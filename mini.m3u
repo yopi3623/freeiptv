@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:30,TF1
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
+#EXTINF:0,FRANCE 2
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr2.m3u8
+#EXTINF:0,FRANCE 3
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr3.m3u8
+#EXTINF:49,M6
+https://gitlab.com/movrey/movrel/-/raw/main/msixx.m3u8
+#EXTINF:1800,ARTE
+https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
+#EXTINF:0,C8
+https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
+#EXTINF:0,C8 [tokenized]
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/c8-clair-hd/hls-ios-fhd-clair/c8-clair-hd.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhddvr-preset/index.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+https://hls-m013.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/c8-hd.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+https://hls-m010.live-lv3.canalplus-cdn.net/live/disk/c8-hd/hls-ios-fhd/index.m3u8
+#EXTINF:0,C8 [drm-keycrypted]
+https://hls-m013-live-aka-canalplus.akamaized.net/live/disk/c8-ad-hd/hls-ios-fhd/c8-ad-hd.m3u8
+#EXTINF:14400,C8 
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/c8.m3u8
+#EXTINF:0,W9 [drm-keycrypted]
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
+#EXTINF:0,W9 [drm-keycrypted]
+https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
+#EXTINF:0,W9
+http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
+#EXTINF:30,TMC
+https://github.com/Paradise-91/ParaTV/raw/main/streams/tf1plus/tmc.m3u8
+#EXTINF:60,NRJ 12
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+#EXTINF:0,FRANCE 4
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr4.m3u8
+#EXTINF:69,BFM TV 
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+#EXTINF:0,CNEWS
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
+#EXTINF:0,CNEWS 
+https://hls-m010-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
+#EXTINF:14400,CSTAR
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cstar.m3u8
+#EXTINF:69,RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
+#EXTINF:69,RMC DECOUVERTE
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
+#EXTINF:0,CHERIE25
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/cherie25.m3u8
+#EXTINF:30,LCI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+#EXTINF:32,FRANCE 24 FR
+https://new.cache-stream.workers.dev/stream/l8PMl7tUDIE/live.m3u8
+#EXTINF:69,BFM BUSINESS
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
+#EXTINF:63,TECH&CO
+https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
+#EXTINF:60,BLOOMBERG FR
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:30,FRANCE INFO 
+https://livestream.zazerconer.workers.dev/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live.m3u8
+#EXTINF:599,GULLI
+https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
+#EXTINF:60,SUPERTOONS FR
+https://jmp2.uk/sam-FRBD5100002NL.m3u8
+#EXTINF:25,PLUTO KIDS
+https://jmp2.uk/sam-FRAJ38000035M.m3u8
