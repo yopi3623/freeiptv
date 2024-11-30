@@ -11,6 +11,16 @@
 # sources EPG ?
 # https://epg.drm-play.com/?prov=epgshare01
 
+# Cherie25 > ?
+# C8 > qualite faible
+# Cnews > qualite faible
+# Cstar > qualite faible + erreurs sporadiques
+# W9 > KO
+# RTL9 > KO
+# histoire > KO
+# 6ter > KO
+# Paris premiere > KO
+
 #EXTM3U
 #EXTINF:30,TF1
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
