@@ -68,7 +68,10 @@ https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/les-schtrou
 https://jmp2.uk/sam-FRBD5100002NL.m3u8
 #EXTINF:25,PLUTO KIDS
 https://jmp2.uk/sam-FRAJ38000035M.m3u8
-#EXTINF:-1 tvg-chno="3057" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f8a07e-0@3x.png",SUPER WINGS TV
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/super-wings.m3u8
+
+
+## OK, non active
+##EXTINF:-1 tvg-chno="3057" tvg-logo="https://photos.tf1.fr/0/40/logo-chaine-super-wings-312b9f-f8a07e-0@3x.png",SUPER WINGS TV
+#https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/super-wings.m3u8
 
 
