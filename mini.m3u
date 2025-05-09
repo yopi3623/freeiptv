@@ -31,26 +31,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franc
 #EXTINF:-1,France 5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/6bb64f06f28a4bfb8779bc1a386f7f0b/dash_short_cenc10_m6_hd_index.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/72072059b9d541feac3c9328728d8304/cmaf/hlsfmp4_short_fp00_m6_hd_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 [drm-keycrypted]
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/25e13477c7c54bbe8f93e828f2234fca/cmaf/hlsfmp4_short_fp00_m6_sd_index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/82a128a679444d3c9b4d68c1616e239a/hls_short_fp00_w9_hdeindex.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 [drm-keycrypted]
-https://origin-18cd60dea8190528.live.6cloud.fr/out/v1/2babf2563b5b420caa743430699c096b/dash_short_cenc10_scte_w9_hdeindex.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nzh88j8/6ter.png",6TER [drm-keycrypted]
-https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/597b48a710164c0da9a4386bf9f7bef2/dash_short_cenc10_6ter_hdeindex.mpd
-
-#EXTINF:0 tvg-id="M61.kazer.org" tvg-logo="m6.png" group-name="TNT" ,6. M6
-http://s.tv.kwaoo.net/6/play.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-id="M6.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/m6-fr.png" group-title="TNT",M6
-https://tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="W9.fr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/w9-fr.png" group-title="TNT",W9
-http://gratuittv.free.fr/Files/w9/live/playlist.m3u8
-
 #EXTINF:-1,Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
 #EXTINF:-1,TMC
@@ -75,19 +55,24 @@ https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1,RMC Découverte
 https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
-#EXTINF:-1,Chérie 25
-https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1,LCI
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
-#EXTINF:-1,Mens'up
-https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
-#EXTINF:-1,Wildside TV
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Génération Sitcoms
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60afb203ec391c00070ea1bf/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb6-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=268b6554-9dcf-4fcd-bcd8-d9cb017d0cd0
 
 #EXTINF:69,BFM BUSINESS
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 #EXTINF:63,TECH&CO
 https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
+
+#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR_HEVC: RTL9" tvg-logo="" group-title="FRANCE CH (HEVC)",FR_HEVC: RTL9
+http://vip-max.com:5555/user/pass/112962
+#EXTINF:-1,Chérie 25
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+#EXTINF:-1,Mens'up
+https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
+#EXTINF:-1,Wildside TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
 
 ##EXTINF:-1 tvg-id="PlutoTVAction.fr" tvg-logo="https://i.imgur.com/OVF9UEh.png" group-title="Movies",Pluto TV Action
