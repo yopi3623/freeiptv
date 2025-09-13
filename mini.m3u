@@ -1,9 +1,9 @@
 # sources OK: 
 # https://github.com/ipstreet312/freeiptv
 # https://iptv-org.github.io/iptv/countries/fr.m3u
-# https://github.com/schumijo/iptv/blob/main/fr.m3u8
+# https://github.com/schumijo/iptv/blob/main/fr.m3u8 >> illegal?
 # https://iptv-org.github.io/iptv/index.m3u
-# https://tvradiozap.eu/index.php/f/3/ty/tvtop
+# https://tvradiozap.eu/index.php/f/3/ty/tvtop >> illegal?
 
 
 # sources KO:
@@ -22,35 +22,17 @@
 
 
 #EXTM3U
-#EXTINF:-1,TF1
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1.m3u8
-#EXTINF:-1,France 2
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france2.m3u8
-#EXTINF:-1,France 3
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france3.m3u8
-#EXTINF:-1,France 5
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france5.m3u8
 
 #EXTINF:-1,Arte
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/master_v720.m3u8
-#EXTINF:-1,TMC
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tmc.m3u8
-#EXTINF:-1,TFX
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tfx.m3u8
-#EXTINF:-1,France 4
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/france4.m3u8
 #EXTINF:-1,BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 #EXTINF:-1,CNews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1,CStar
-https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5v0.m3u8
 #EXTINF:-1,Gulli
 https://origin-caf900c010ea8046.live.6cloud.fr/out/v1/c65696b42ca34e97a9b5f54758d6dd50/cmaf/hlsfmp4_short_q2hyb21h_gulli_sd_index.m3u8
 #EXTINF:-1,TF1 Séries Films
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/tf1-series-films.m3u8
-#EXTINF:-1,L'Équipe
-https://tvradiozap.eu/tools/dm-m3u8.php/x2lefik.m3u8
 #EXTINF:-1,RMC Story
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1,RMC Découverte
@@ -65,12 +47,9 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servic
 #EXTINF:63,TECH&CO
 https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
 
-#EXTINF:-1 tvg-id="RTL 9 FR" tvg-name="FR_HEVC: RTL9" tvg-logo="" group-title="FRANCE CH (HEVC)",FR_HEVC: RTL9
-http://vip-max.com:5555/user/pass/112962
+
 #EXTINF:-1,Chérie 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
-#EXTINF:-1,Mens'up
-https://tvradiozap.eu/tools/dm-m3u8.php/x2kr3hs.m3u8
 #EXTINF:-1,Wildside TV
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 
@@ -99,4 +78,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63
 
 #EXTINF:60,SUPERTOONS
 https://jmp2.uk/sam-FRBD5100002NL.m3u8
+
+#EXTINF:-1,PLutotv 80-2000
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b579961bdba100071214cb/master.m3u8
 
